@@ -163,5 +163,8 @@ Haikyuu!! Second Season : Comedy, Drama, School, Shounen, Sports
 Bisa dilihat dari hasil rekomendasi hasil rekomendasi memiliki genre yang serupa misalnya *adventure* untuk anime *Ookami to Koushinryou II*, direkomendasikan anime dengan genre yang serupa seperti *Cowboy Bebop, Toki wo Kakeru Shoujo*. Dari hasil ini dapat disimpulkan bahwasanya model yang kita buat dikatakan berhasil dan dapat diimplementasikan ke aplikasi *balibali*.
 
 # Daftar Referensi
+
 [1]	Dinda Puput Oktafia , Noor Yunida Triana , Roro Lintang Suryani, “Durasi Penggunaan Gadget Terhadap Personal Sosial Pada Anak Usia Prasekolah: Literatur Review,” Jurnal Borneo Nursing, vol. 4, no. 1, 2021.
+
 [2]	Prista Ardi Nugroho and Grendi Hendrastomo,“Anime Sebagai Budaya Populer (Studi Pada Komunitas Anime di Yogyakarta)," Jurnal Pendidikan Sosiologi, 2016.
+
