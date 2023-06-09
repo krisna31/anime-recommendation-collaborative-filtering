@@ -125,7 +125,9 @@ Untuk model terbaik akan dilihat dari model yang memiliki *RMSE* terkecil.
 
 Metrik evaluasi yang akan digunakan untuk menganalisis kinerja model dalam memprediksi rekomendasi anime untuk pengguna adalah Root Mean Squared Error (RMSE). 
 
+\[
 RMSE = \sqrt{\frac{1}{n} \sum_{i=1}^{n} (y - \hat{y})^2}
+\]
 Dari rumus di atas, *Root Mean Square Error* dihitung dari akar kuadrat dari rata-rata selisih kuadrat antara nilai prediksi dan nilai sebenarnya. RMSE memberikan gambaran tentang sejauh mana prediksi model kita menyimpang dari nilai sebenarnya. Semakin kecil nilai RMSE, semakin baik performa model dalam melakukan prediksi yang akurat.
 
 ![Metrik Model](https://raw.githubusercontent.com/krisna31/anime-recommendation-collaborative-filtering/main/images/metrik-akhir.png)
